@@ -28,6 +28,7 @@ public class PauseUI : MonoBehaviour
 
     private void ExitToMainMenu()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene("MainMenuScene");
     }
 }
