@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="416218f5-8ec3-4d9b-8b4c-c46051a132d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/Weapons/Projectiles/RandomRotator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/SunShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MainMenuController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/Planet/PlanetAI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/GameUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/GameManagerTestStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/NewSurfaceShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/PauseUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/PlayerIndicatorShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/Planet/PlayerPlanetInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/Health.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A3ACC929-D602-4E3F-8E89-2CA6636AE123/4d/3dff79ca/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/Planet/PlanetRotatorAroundSun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/PlanetShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/Planet/PlanetController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/Weapons/WeaponHolderController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/Weapons/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game/Weapons/CannonWeapon.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Noise.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/j.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlanetController.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlanetRotatorAroundSun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlanetGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlanetRotatorAroundSun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/PlanetShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/ProjectileRotateAlongVelocity.cs" />
+        <option value="$PROJECT_DIR$/Assets/WeaponHolderController.cs" />
+        <option value="$PROJECT_DIR$/Assets/ProjectileController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/HealthBarHUD.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/SunShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ProjectileController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MathfExt.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlanetController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponHolderController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SimpleProjectileDamageDealer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponCooldownHUDBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CannonCooldownHUD.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainMenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CannonWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Weapons/Weapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Weapons/CannonWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/GameManagerTestStart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Weapons/Projectiles/RandomRotator.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Planet/PlanetRotatorAroundSun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/PlayerIndicatorShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Weapons/WeaponHolderController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Planet/PlanetController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/GameUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/PauseUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Planet/PlanetAI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Planet/PlayerPlanetInput.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xd2LXjlMQhAwzZwSMBbtA5A6ZX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="84645">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="84645" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="542" height="466" key="DebuggerActiveHint" timestamp="1581630531745">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="542" height="466" key="DebuggerActiveHint/0.23.1680.1027@0.23.1680.1027" timestamp="1581630531745" />
+    <state width="1638" height="345" key="GridCell.Tab.0.bottom" timestamp="1581632994109">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994109" />
+    <state width="1638" height="345" key="GridCell.Tab.0.center" timestamp="1581632994107">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994107" />
+    <state width="1638" height="345" key="GridCell.Tab.0.left" timestamp="1581632994107">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994107" />
+    <state width="1638" height="345" key="GridCell.Tab.0.right" timestamp="1581632994108">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994108" />
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1581632994111">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994111" />
+    <state width="1638" height="345" key="GridCell.Tab.1.center" timestamp="1581632994110">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994110" />
+    <state width="1638" height="345" key="GridCell.Tab.1.left" timestamp="1581632994109">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994109" />
+    <state width="1638" height="345" key="GridCell.Tab.1.right" timestamp="1581632994110">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994110" />
+    <state width="1638" height="345" key="GridCell.Tab.2.bottom" timestamp="1581632994113">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.2.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994113" />
+    <state width="1638" height="345" key="GridCell.Tab.2.center" timestamp="1581632994111">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.2.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994111" />
+    <state width="1638" height="345" key="GridCell.Tab.2.left" timestamp="1581632994111">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.2.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994111" />
+    <state width="1638" height="345" key="GridCell.Tab.2.right" timestamp="1581632994111">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.2.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994111" />
+    <state width="1638" height="345" key="GridCell.Tab.3.bottom" timestamp="1581632994114">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.3.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994114" />
+    <state width="1638" height="345" key="GridCell.Tab.3.center" timestamp="1581632994113">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.3.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994113" />
+    <state width="1638" height="345" key="GridCell.Tab.3.left" timestamp="1581632994113">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.3.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994113" />
+    <state width="1638" height="345" key="GridCell.Tab.3.right" timestamp="1581632994114">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.3.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581632994114" />
+    <state x="454" y="286" width="772" height="500" key="find.popup" timestamp="1581636720873">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="454" y="286" width="772" height="500" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1581636720873" />
+    <state x="502" y="248" width="673" height="678" key="search.everywhere.popup" timestamp="1581639047683">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="502" y="248" width="673" height="678" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1581639047683" />
+  </component>
+</project>
